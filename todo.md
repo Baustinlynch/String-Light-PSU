@@ -1,0 +1,2 @@
+- [] find a thermistor on a wire
+- [] calculate the resitors on the charger??
