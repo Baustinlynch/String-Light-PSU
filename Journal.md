@@ -7,3 +7,12 @@
     - Spent a while setting the battery charging circut up
 
 - Started the Layout and roughting on the PCB
+https://lapse.hackclub.com/timelapse/oYXOqTZ7uB9a
+## 9/5/26 
+- did a bit more roughting and declared some parts
+## 27/5/26 
+- found the BMS ic i want to use [here](https://www.lcsc.com/product-detail/C351410.html)
+- also found a better data sheet from [Digikey](https://www.digikey.co.uk/en/products/detail/shenzhen-slkormicro-semicon-co-ltd/DW01A/28143000) because the one on lcsc was a bit too vauge
+- finished the 3.7v battery system schematic
+- re-routed the entire board so far, as it is routed very bad
+- 
