@@ -15,4 +15,6 @@ https://lapse.hackclub.com/timelapse/oYXOqTZ7uB9a
 - also found a better data sheet from [Digikey](https://www.digikey.co.uk/en/products/detail/shenzhen-slkormicro-semicon-co-ltd/DW01A/28143000) because the one on lcsc was a bit too vauge
 - finished the 3.7v battery system schematic
 - re-routed the entire board so far, as it is routed very bad
+
+## 2/6/26
 - 
