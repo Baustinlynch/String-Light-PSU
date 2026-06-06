@@ -16,5 +16,6 @@ https://lapse.hackclub.com/timelapse/oYXOqTZ7uB9a
 - finished the 3.7v battery system schematic
 - re-routed the entire board so far, as it is routed very bad
 
-## 2/6/26
+## 28/5/26
+- made 2 pages in the schematic for the power systems and for the mcu and 4.5v switching for the output to the string lights
 - 
