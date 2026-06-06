@@ -18,4 +18,8 @@ https://lapse.hackclub.com/timelapse/oYXOqTZ7uB9a
 
 ## 28/5/26
 - made 2 pages in the schematic for the power systems and for the mcu and 4.5v switching for the output to the string lights
-- 
+
+## 6/6/26
+Fun date
+- Found the screw terminal i want to use to connect the 4.5v output to the string light leads
+- looked into the 3.7v to 4.5v converter i want to use
