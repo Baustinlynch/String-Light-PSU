@@ -23,3 +23,19 @@ https://lapse.hackclub.com/timelapse/oYXOqTZ7uB9a
 Fun date
 - Found the screw terminal i want to use to connect the 4.5v output to the string light leads
 - looked into the 3.7v to 4.5v converter i want to use
+
+## 01/07/26
+- finished the 4.5v boost circut
+
+## 02/07/26
+- re-did the 4.5v boost circut but remembered to save it this time lol
+- added testpoints for the +4.5v and +3.3v rails so that i can test that the converters are working correctlly 
+- added a test point for the VUSB net so that i can check that the correct voltage (5v) is being negotiated by the usb-c sink
+- added a power switch to the output from the bms 
+- added reset button 
+- applied parts to some of the passives i had placed over time
+
+## 03/07/26
+- added smoothing caps to the usb data lines
+- connected the enable pin of the TPS61254YFFR(4.5v boost ic) to GPIO-1 on the esp32 so that i can control it from esphome by driving the pin high 
+- 
