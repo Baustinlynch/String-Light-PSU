@@ -38,4 +38,5 @@ Fun date
 ## 03/07/26
 - added smoothing caps to the usb data lines
 - connected the enable pin of the TPS61254YFFR(4.5v boost ic) to GPIO-1 on the esp32 so that i can control it from esphome by driving the pin high 
-- 
+- put no-connect flags on all the unused pins 
+- started to layout the PCB for the (hopefully final time) whilst doing so, checking over the schematic for every part
