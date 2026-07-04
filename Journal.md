@@ -40,3 +40,11 @@ Fun date
 - connected the enable pin of the TPS61254YFFR(4.5v boost ic) to GPIO-1 on the esp32 so that i can control it from esphome by driving the pin high 
 - put no-connect flags on all the unused pins 
 - started to layout the PCB for the (hopefully final time) whilst doing so, checking over the schematic for every part
+
+## 04/07/26
+- finished layout of the PCB
+- added a little silkscreen message :)
+- changed the size of the vias on the ground pin of the esp32-s3 as they were too small for jlcpcb
+- made sure that the ground plane was not under the antenna of the esp32 so that the performance of wifi is less affected
+- checked ordering through jlc pcb to make sure that they can make it all
+- found that pcba is super expensive, looking at soldering the parts myself 
