@@ -12,7 +12,7 @@ https://lapse.hackclub.com/timelapse/oYXOqTZ7uB9a
 - did a bit more routing and declared some parts
 ## 27/5/26 
 - found the BMS ic i want to use [here](https://www.lcsc.com/product-detail/C351410.html)
-- also found a better data sheet from [Digikey](https://www.digikey.co.uk/en/products/detail/shenzhen-slkormicro-semicon-co-ltd/DW01A/28143000) because the one on lcsc was a bit too vauge
+- also found a better data sheet from [Digikey](https://www.digikey.co.uk/en/products/detail/shenzhen-slkormicro-semicon-co-ltd/DW01A/28143000) because the one on LCSC was a bit too vauge
 - finished the 3.7v battery system schematic
 - re-routed the entire board so far, as it is routed very bad
 
@@ -53,6 +53,13 @@ Fun date
 ## 05/07/26
 all of the changes i am making today are as a result of asking for someone to look over my schematic on ([#electronics](https://hackclub.slack.com/archives/C056AMWSFKJ/p1783166697054009)) in Slack and getting feedback :)
 today i am going to: 
-- [] Remove the PD sink and replace it with 2 5.k resistors to reduce cost. As i am getting 5v from the usb-c supply, i don't need to use a sink because it does not require proper PD negotiation, and it can request 5v from any usb-c source by just putting a 5.1k resistor to ground on each cc pin
-- [] replace the esp32-s3 with and esp32-c3 to reduce cost, as the s3 is more powerful than i need for this application
-- [] use the PWM pins on the c3 to allow for dimming for the lights
+- [X] Remove the PD sink and replace it with 2 5.k resistors to reduce cost. As i am getting 5v from the usb-c supply, i don't need to use a sink because it does not require proper PD negotiation, and it can request 5v from any usb-c source by just putting a 5.1k resistor to ground on each cc pin
+    - removed the sink and placed the resistors
+- [X] replace the esp32-s3 with and esp32-c3 to reduce cost, as the s3 is more powerful than i need for this application
+    - change up the boot button so that it holds GPIO9 high when not pressed
+    - connect up all the other parts
+- [X] use the PWM pins on the c3 to allow for dimming for the lights
+    - found a MOSFET to take the 3.3v PWM output from the esp32 and turn it into a 4.5v PWM output for the load
+    - set up the MOSFET to transform the PWM signal from the ESP32 to a 4.5v PWM output for the lights
+
+
