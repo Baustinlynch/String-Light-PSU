@@ -61,5 +61,7 @@ today i am going to:
 - [X] use the PWM pins on the c3 to allow for dimming for the lights
     - found a MOSFET to take the 3.3v PWM output from the esp32 and turn it into a 4.5v PWM output for the load
     - set up the MOSFET to transform the PWM signal from the ESP32 to a 4.5v PWM output for the lights
-
+- finished the layout of the PCB
+- removed the 0 ohm resistors as they are unnecessary for the length of my usb data lines
+- 4 m3 mounting holes
 
