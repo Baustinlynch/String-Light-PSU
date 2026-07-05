@@ -29,7 +29,7 @@ Fun date
 
 ## 02/07/26
 - re-did the 4.5v boost circut but remembered to save it this time lol
-- added testpoints for the +4.5v and +3.3v rails so that i can test that the converters are working correctlly 
+- added test-points for the +4.5v and +3.3v rails so that i can test that the converters are working correctlly 
 - added a test point for the VUSB net so that i can check that the correct voltage (5v) is being negotiated by the usb-c sink
 - added a power switch to the output from the bms 
 - added reset button 
@@ -48,3 +48,11 @@ Fun date
 - made sure that the ground plane was not under the antenna of the esp32 so that the performance of wifi is less affected
 - checked ordering through jlc pcb to make sure that they can make it all
 - found that pcba is super expensive, looking at soldering the parts myself 
+- finding replacements for some parts becuase they are out of stock
+
+## 05/07/26
+all of the changes i am making today are as a result of asking for someone to look over my schematic on ([#electronics](https://hackclub.slack.com/archives/C056AMWSFKJ/p1783166697054009)) in Slack and getting feedback :)
+today i am going to: 
+- [] Remove the PD sink and replace it with 2 5.k resistors to reduce cost. As i am getting 5v from the usb-c supply, i don't need to use a sink because it does not require proper PD negotiation, and it can request 5v from any usb-c source by just putting a 5.1k resistor to ground on each cc pin
+- [] replace the esp32-s3 with and esp32-c3 to reduce cost, as the s3 is more powerfull than i need for this application
+- [] use the pwn pins on the c3 to allow for dimming for the lights
