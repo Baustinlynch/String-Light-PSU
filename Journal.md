@@ -6,10 +6,10 @@
 - Find the Battery charger ic i want to use ([the TP4056][https://www.lcsc.com/product-detail/C16581.html?s_z=n_q_TP4056&spm=wm.fly.bg.0.xh&lcsc_vid=RAALBlxfRVNXA1xQFAVeUlQHEgMNX1dfRlReAwIAQVExVlNRT1NYV1VXQFRZVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXR1FaSQwSGg0%3D])
     - Spent a while setting the battery charging circut up
 
-- Started the Layout and roughting on the PCB
+- Started the Layout and routing on the PCB
 https://lapse.hackclub.com/timelapse/oYXOqTZ7uB9a
 ## 9/5/26 
-- did a bit more roughting and declared some parts
+- did a bit more routing and declared some parts
 ## 27/5/26 
 - found the BMS ic i want to use [here](https://www.lcsc.com/product-detail/C351410.html)
 - also found a better data sheet from [Digikey](https://www.digikey.co.uk/en/products/detail/shenzhen-slkormicro-semicon-co-ltd/DW01A/28143000) because the one on lcsc was a bit too vauge
@@ -17,7 +17,7 @@ https://lapse.hackclub.com/timelapse/oYXOqTZ7uB9a
 - re-routed the entire board so far, as it is routed very bad
 
 ## 28/5/26
-- made 2 pages in the schematic for the power systems and for the mcu and 4.5v switching for the output to the string lights
+- made 2 pages in the schematic for the power systems and for the MCU and 4.5v switching for the output to the string lights
 
 ## 6/6/26
 Fun date
@@ -29,30 +29,30 @@ Fun date
 
 ## 02/07/26
 - re-did the 4.5v boost circut but remembered to save it this time lol
-- added test-points for the +4.5v and +3.3v rails so that i can test that the converters are working correctlly 
+- added test-points for the +4.5v and +3.3v rails so that i can test that the converters are working correctly 
 - added a test point for the VUSB net so that i can check that the correct voltage (5v) is being negotiated by the usb-c sink
-- added a power switch to the output from the bms 
+- added a power switch to the output from the BMS
 - added reset button 
 - applied parts to some of the passives i had placed over time
 
 ## 03/07/26
 - added smoothing caps to the usb data lines
-- connected the enable pin of the TPS61254YFFR(4.5v boost ic) to GPIO-1 on the esp32 so that i can control it from esphome by driving the pin high 
+- connected the enable pin of the TPS61254YFFR(4.5v boost ic) to GPIO-1 on the esp32 so that i can control it from EspHome by driving the pin high 
 - put no-connect flags on all the unused pins 
 - started to layout the PCB for the (hopefully final time) whilst doing so, checking over the schematic for every part
 
 ## 04/07/26
 - finished layout of the PCB
 - added a little silkscreen message :)
-- changed the size of the vias on the ground pin of the esp32-s3 as they were too small for jlcpcb
+- changed the size of the vias on the ground pin of the esp32-s3 as they were too small for JLCPCB
 - made sure that the ground plane was not under the antenna of the esp32 so that the performance of wifi is less affected
-- checked ordering through jlc pcb to make sure that they can make it all
-- found that pcba is super expensive, looking at soldering the parts myself 
-- finding replacements for some parts becuase they are out of stock
+- checked ordering through JLCPCB to make sure that they can make it all
+- found that PCBA is super expensive, looking at soldering the parts myself 
+- finding replacements for some parts because they are out of stock
 
 ## 05/07/26
 all of the changes i am making today are as a result of asking for someone to look over my schematic on ([#electronics](https://hackclub.slack.com/archives/C056AMWSFKJ/p1783166697054009)) in Slack and getting feedback :)
 today i am going to: 
 - [] Remove the PD sink and replace it with 2 5.k resistors to reduce cost. As i am getting 5v from the usb-c supply, i don't need to use a sink because it does not require proper PD negotiation, and it can request 5v from any usb-c source by just putting a 5.1k resistor to ground on each cc pin
-- [] replace the esp32-s3 with and esp32-c3 to reduce cost, as the s3 is more powerfull than i need for this application
-- [] use the pwn pins on the c3 to allow for dimming for the lights
+- [] replace the esp32-s3 with and esp32-c3 to reduce cost, as the s3 is more powerful than i need for this application
+- [] use the PWM pins on the c3 to allow for dimming for the lights
