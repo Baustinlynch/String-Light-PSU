@@ -70,3 +70,5 @@ today i am going to:
 - changed my 3.3v source, the one i was using, LCSC dont have carry anymore
     - im now going to be using the TI TPS63001DRCR
     - found the inductor i want to be using, i got it from the recommended parts list from TI. 
+    - placed all the resistors and caps needed 
+    - finished the layout for the 3.3v source 
