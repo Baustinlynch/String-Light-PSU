@@ -65,3 +65,8 @@ today i am going to:
 - removed the 0 ohm resistors as they are unnecessary for the length of my usb data lines
 - 4 m3 mounting holes
 
+
+## 06/07/26
+- changed my 3.3v source, the one i was using, LCSC dont have carry anymore
+    - im now going to be using the TI TPS63001DRCR
+    - found the inductor i want to be using, i got it from the recommended parts list from TI. 
