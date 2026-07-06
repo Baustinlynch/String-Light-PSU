@@ -75,4 +75,5 @@ today i am going to:
 - checked ordering at JLCPCB to make sure there arent any problems 
     - replace R2 and R6 as the ones i had selected are now out of stock at LCSC
 - whilst i was checking the JLCPCB ordering, i found that the 4.5v boost ic i was using is not compatible with the economic PCBA with JLCPCB, and can only be done with the standard PCBA, which costs around $145. due to the package size i cannot solder it myself, so i must find an alternative ic
-    - 
+    - found the ME2188A45, it is a working alternative for the TPS61254YFFR
+    - placed and assembled it on the schematic
