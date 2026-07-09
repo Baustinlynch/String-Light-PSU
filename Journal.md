@@ -111,3 +111,5 @@ today i am going to:
 - finished up the base (for now)
   - except i still need to find some threaded inserts for the bolts from the PCB to go into, and need to figure out how i am going to attach the top and bottom pieces of the enclosure together
 - printed the base as it is now so that i can make sure that the bottom and top fit together properly
+- the base finished printing, i think that the vents are still too a bit weak, i need to make the gaps between the holes bigger.
+- 
