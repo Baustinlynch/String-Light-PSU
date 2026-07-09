@@ -89,3 +89,4 @@ today i am going to:
 
 - added vents to one side of the base of the enclosure
 - added vents to the oposite side to the usb-c port
+- sliced the base of the enclosure to get a better feel for how it will print, i think i need to make the walls between the vents a bit bigger, it looks like it will be a bit too fragile 
