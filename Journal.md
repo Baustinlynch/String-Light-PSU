@@ -67,6 +67,7 @@ today i am going to:
 
 
 ## 06/07/26
+
 - changed my 3.3v source, the one i was using, LCSC dont have carry anymore
     - im now going to be using the TI TPS63001DRCR
     - found the inductor i want to be using, i got it from the recommended parts list from TI. 
@@ -78,3 +79,13 @@ today i am going to:
     - found the ME2188A45, it is a working alternative for the TPS61254YFFR
     - placed and assembled it on the schematic
     - finished the layout on the PCB, and beefed up some of the traces that will be taking high current
+  
+## 08/07/26
+- started modeling the base of the enclosure
+  - created the basic outside shape
+  - added the bases for the threaded inserts to hold in the PCB
+
+## 09/07/26
+
+- added vents to one side of the base of the enclosure
+- added vents to the oposite side to the usb-c port
