@@ -7,7 +7,7 @@ an esp-home controller for 4.5V string-lights with PWM dimming and a battery wit
 
 ## ESP-home implementation
 the lights can be controlled using the ESP-home "component" [ESP-32 LEDC output](https://esphome.io/components/output/ledc/). 
-it allows for the easy creation of a HomeAssistant light entity with dimming based on the PWM output of the esp32.
+it allows for the easy creation of a HomeAssistant light entity with dimming based on the PWM output of the esp32 through basic yaml configuration files, that automatically generate the code needed to flash the ESP32, and allow you to flash it through ESP-home web tools.
 to define a light using this component, all you **need** to declare in your ESP-home config is the pin on the esp32 (in the case of this board, GPIO4) and the ID that you want the light component to have in HomeAssistant. You can also set the PWM frequency of the pin, the ESP32-C3 which is used in this board only supports 14 bit LEDC timers, as shown on the frequency table on the ESP-home docs page i linked.
 Here is an example configuation: 
 ```
