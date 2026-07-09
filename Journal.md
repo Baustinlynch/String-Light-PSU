@@ -77,4 +77,4 @@ today i am going to:
 - whilst i was checking the JLCPCB ordering, i found that the 4.5v boost ic i was using is not compatible with the economic PCBA with JLCPCB, and can only be done with the standard PCBA, which costs around $145. due to the package size i cannot solder it myself, so i must find an alternative ic
     - found the ME2188A45, it is a working alternative for the TPS61254YFFR
     - placed and assembled it on the schematic
-- finished the layout on the PCB, and beefed up some of the traces that will be taking high current 
+    - finished the layout on the PCB, and beefed up some of the traces that will be taking high current
