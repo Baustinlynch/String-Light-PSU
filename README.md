@@ -37,3 +37,9 @@ String lights that use 3 AA or AAA batteries operate at 4.5v and are compatible 
 ## Assembly
 [go to assembly](Assembly.md)
 
+# BATTERY DISCLAMER !!!
+LPo and LIon batterys are **pretty dangerous**!! 
+I **DO NOT** take responsibility for my battery charging or management circutry being responcible for your battery being over/under charged and setting on fire
+I trust my circutry enough to use it in my own home, but you should always look over someone elses circutry yourself and do you due dilligence!
+**Use at your own risk!!**
+
