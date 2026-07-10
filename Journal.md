@@ -125,4 +125,5 @@ today i am going to:
   - i am going to use [this JST connector](https://www.lcsc.com/product-detail/C131337.html?spm=wm.fly.bg.4.xh&lcsc_vid=QlgMAlMDFARbA1IFRQNZBFZRFlULVQJREQQMBlRVFQQxVlNeRFZeU11SR1JbVzsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRlRWV1VUWQkaCgg%3D)
   - did the layout for the JST board, and made it more compact than the 18650, as is the benefit of the non-18650 board 
   - added a cutout to the board, next to the battery connector, to allow the wires to pass to the bottom of the board.
+- started puting all the files into the github repo
 - 
