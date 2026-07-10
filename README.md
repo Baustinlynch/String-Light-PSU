@@ -34,5 +34,6 @@ The board features an ESP32-C3 to interface with the PWM pin at GPIO4, which is 
 The PWM output can be used to change the brightness of the lights, and can be easily controled through esp-home to turn any 4.5v string lights into smart-lights with HomeAssistant!
 String lights that use 3 AA or AAA batteries operate at 4.5v and are compatible with this board.
 
-[## Assembly](Assembly.md)
+## Assembly
+[go to assembly](Assembly.md)
 
