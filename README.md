@@ -39,7 +39,7 @@ String lights that use 3 AA or AAA batteries often operate at 4.5v and should be
 
 # BATTERY DISCLAIMER !!!
 LiPo and LiIon batteries are **pretty dangerous**!! 
-I **DO NOT** take responsibility for my battery charging or management circuitry being responsible for your battery being over/under charged and setting on fire
+I **DO NOT** take responsibility for my battery charging or management circuitry being responsible for your battery being over/under charged and setting on fire.
 I trust my circuitry enough to use it in my own home, but you should always look over someone else's circuitry yourself and do your due diligence!
 **Use at your own risk!!**
 
