@@ -112,4 +112,11 @@ today i am going to:
   - except i still need to find some threaded inserts for the bolts from the PCB to go into, and need to figure out how i am going to attach the top and bottom pieces of the enclosure together
 - printed the base as it is now so that i can make sure that the bottom and top fit together properly
 - the base finished printing, i think that the vents are still too a bit weak, i need to make the gaps between the holes bigger.
+
+## 10/07/26
+
+- [] i need to make the caps on the usb data lines bigger, as they are too small to solder by hand rn
+- [] i need to make the vents on the base of the enclosure bigger, they feel a bit too weak
+- [] i need to make the holes for the heated inserts bigger as i haven't made them the right size for the insert, i have just made them the size of the bolt 
+- [] i need to make the mounting holes in the PCB bigger as they are a bit too small for the M3 bolts
 - 
