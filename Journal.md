@@ -115,8 +115,12 @@ today i am going to:
 
 ## 10/07/26
 
-- [] i need to make the caps on the usb data lines bigger, as they are too small to solder by hand rn
+- [X] i need to make the caps on the usb data lines bigger, as they are too small to solder by hand rn
 - [] i need to make the vents on the base of the enclosure bigger, they feel a bit too weak
 - [] i need to make the holes for the heated inserts bigger as i haven't made them the right size for the insert, i have just made them the size of the bolt 
-- [] i need to make the mounting holes in the PCB bigger as they are a bit too small for the M3 bolts
-- 
+- [X] i need to make the mounting holes in the PCB bigger as they are a bit too small for the M3 bolts
+
+- I started work on the non-18650 version of the board
+  - i plan on using [this battery](https://thepihut.com/products/2000mah-3-7v-lipo-battery) for my version of the enclosure
+  - i am going to use [this JST connector](https://www.lcsc.com/product-detail/C131337.html?spm=wm.fly.bg.4.xh&lcsc_vid=QlgMAlMDFARbA1IFRQNZBFZRFlULVQJREQQMBlRVFQQxVlNeRFZeU11SR1JbVzsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRlRWV1VUWQkaCgg%3D)
+  - 
