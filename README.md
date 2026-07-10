@@ -5,7 +5,7 @@ comes in a version with an 18650 battery holder and a version with a JST PH conn
 
 ![an image of the 18650 version of the board's PCB](/Media/PCB-18650-PNG.png)
 
-![an image of the 18650 version of the board's schematic](/media/Schematic-PNG.png)
+![an image of the 18650 version of the board's schematic](Media/Schematic-PNG.png)
 
 ## ESP-home implementation
 
