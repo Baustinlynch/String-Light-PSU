@@ -126,4 +126,3 @@ today i am going to:
   - did the layout for the JST board, and made it more compact than the 18650, as is the benefit of the non-18650 board 
   - added a cutout to the board, next to the battery connector, to allow the wires to pass to the bottom of the board.
 - started puting all the files into the Github repo
-- 
