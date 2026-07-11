@@ -33,6 +33,7 @@ light:
 The board features an ESP32-C3 to interface with the PWM pin at GPIO4, which is then transformed through the MOSFET (Q2) into a 4.5v PWM signal.
 The PWM output can be used to change the brightness of the lights, and can be easily controled through esp-home to turn any 4.5v string lights into smart-lights with HomeAssistant!
 String lights that use 3 AA or AAA batteries often operate at 4.5v and should be compatible with this board.
+When charging, the red LED (LED1) located next to the usb-c port will be on. it will turn off when full charged
 
 ## Assembly
 [go to assembly](Assembly.md)
