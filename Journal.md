@@ -116,8 +116,6 @@ today i am going to:
 ## 10/07/26
 
 - [X] i need to make the caps on the usb data lines bigger, as they are too small to solder by hand rn
-- [] i need to make the vents on the base of the enclosure bigger, they feel a bit too weak
-- [] i need to make the holes for the heated inserts bigger as i haven't made them the right size for the insert, i have just made them the size of the bolt 
 - [X] i need to make the mounting holes in the PCB bigger as they are a bit too small for the M3 bolts
 
 - I made the non-18650/JST version of the board
@@ -126,3 +124,7 @@ today i am going to:
   - did the layout for the JST board, and made it more compact than the 18650, as is the benefit of the non-18650 board 
   - added a cutout to the board, next to the battery connector, to allow the wires to pass to the bottom of the board.
 - started puting all the files into the Github repo
+
+## 11/07/26
+- [] i need to make the vents on the base of the enclosure bigger, they feel a bit too weak
+- [] i need to make the holes for the heated inserts bigger as i haven't made them the right size for the insert, i have just made them the size of the bolt 
