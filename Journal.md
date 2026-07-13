@@ -143,7 +143,11 @@ today i am going to:
     - the holes for the threaded inserts are a bit small so i am going to make them bigger
     - the hole for the screw that holds in the top of the enclosure is a bit too shallow, so i will make it deeper
   - printing out another copy
-    - 
+    - [] i need to move one of the ribs on the underside of the top of the enclosure away from the hole
+    - [] remove the chamfer on the pin with the screw, as it interferes with it being able to fit properly
+    - [] add more ribs to the underside of the top of the enclosure as it still a bit too flexible
+    - [] make the pin with the screw on it a bit shorter, as it is too long
+    - [] add a fillet's to the top of the enclosure
 
 - started working on the base of the JST Version enclosure
   - the board is not that big, so the battery that i was planning on using is too big to fit underneath it, and the JST version is supposed to be the small one, so i am going to switch to [this one](https://thepihut.com/products/500mah-3-7v-lipo-battery)
