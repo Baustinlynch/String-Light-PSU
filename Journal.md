@@ -130,6 +130,6 @@ today i am going to:
 - [] i need to make the vents on the base of the enclosure bigger, they feel a bit too weak
 - [] i need to make the holes for the heated inserts bigger as i haven't made them the right size for the insert, i have just made them the size of the bolt
 
-- found the size of heat-set insert and machine screws i want to use, i am using M3x8 machine screws and M3 heat-set inserts with an external diameter of 4.8mm and a height of 3.8mm, as those are suitable and i have them on hand
+- found the size of heat-set insert and machine screws i want to use, i am using M3x8 machine screws ([these](https://uk.store.bambulab.com/products/m3-socket-head-cap-machine-screws-shcs-1?id=41622217621564 ones from Bambu lab)) and M3 heat-set inserts with an external diameter of 4.8mm and a height of 3.8mm, as those are suitable and i have them on hand
 - started working on the base of the JST Version enclosure
-  - 
+  - the board is not that big, so the battery that i was planning on using is too big to fit underneath it, and the JST version is supposed to be the small one, so i am going to switch to [this one](https://thepihut.com/products/500mah-3-7v-lipo-battery)
