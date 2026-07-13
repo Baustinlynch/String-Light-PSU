@@ -129,4 +129,7 @@ today i am going to:
 
 - [] i need to make the vents on the base of the enclosure bigger, they feel a bit too weak
 - [] i need to make the holes for the heated inserts bigger as i haven't made them the right size for the insert, i have just made them the size of the bolt
-- 
+
+- found the size of heat-set insert and machine screws i want to use, i am using M3x8 machine screws and M3 heat-set inserts with an external diameter of 4.8mm and a height of 3.8mm, as those are suitable and i have them on hand
+- started working on the base of the JST Version enclosure
+  - 
