@@ -142,8 +142,12 @@ today i am going to:
     - i think that the top of the enclosure can be made a bit thinner overall, as it is very bulky
     - the holes for the threaded inserts are a bit small so i am going to make them bigger
     - the hole for the screw that holds in the top of the enclosure is a bit too shallow, so i will make it deeper
-  - 
+  - printing out another copy
+    - 
+
 - started working on the base of the JST Version enclosure
   - the board is not that big, so the battery that i was planning on using is too big to fit underneath it, and the JST version is supposed to be the small one, so i am going to switch to [this one](https://thepihut.com/products/500mah-3-7v-lipo-battery)
   - since i have changed the battery, i can make the standoffs on for the board shorter, from 8mm to 5mm
-  - 
+  - the walls need to be reasonably thick because of the space necessary for the screws to fit in, so i am minimizing the wall thickness by not having the wall thickness be even everywhere
+  - i am carving a kind of alcove into the side of the base of the enclosure, as the battery is in the way of the pins of the screw terminal
+  
