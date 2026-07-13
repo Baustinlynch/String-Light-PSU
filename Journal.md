@@ -155,3 +155,4 @@ today i am going to:
   - the walls need to be reasonably thick because of the space necessary for the screws to fit in, so i am minimizing the wall thickness by not having the wall thickness be even everywhere
   - i am carving a kind of alcove into the side of the base of the enclosure, as the battery is in the way of the pins of the screw terminal
   
+- 
