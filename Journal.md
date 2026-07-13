@@ -127,9 +127,13 @@ today i am going to:
 
 ## 13/07/26
 
-- [] i need to make the vents on the base of the enclosure bigger, they feel a bit too weak
-- [] i need to make the holes for the heated inserts bigger as i haven't made them the right size for the insert, i have just made them the size of the bolt
+- [X] i need to make the vents on the base of the enclosure smaller, they feel a bit too weak
+- [X] i need to make the holes for the heated inserts bigger in the base of the 18650 board as i haven't made them the right size for the insert, i have just made them the size of the bolt
+  - made the holes in the base 4.2 mm, as my threaded inserts have an outer diameter of 4.8mm. I got the sizing and offsets from [this](https://www.cnckitchen.com/blog/tipps-amp-tricks-fr-gewindeeinstze-im-3d-druck-3awey) article
+  - since i made the holes bigger, i also had to make the outer diameter of the parts that hold the inserts bigger
 
-- found the size of heat-set insert and machine screws i want to use, i am using M3x8 machine screws ([these](https://uk.store.bambulab.com/products/m3-socket-head-cap-machine-screws-shcs-1?id=41622217621564 ones from Bambu lab)) and M3 heat-set inserts with an external diameter of 4.8mm and a height of 3.8mm, as those are suitable and i have them on hand
+- found the size of heat-set insert and machine screws i want to use, i am using M3x8 machine screws ([these](https://uk.store.bambulab.com/products/m3-socket-head-cap-machine-screws-shcs-1?id=41622217621564) ones from Bambu lab) and M3 heat-set inserts with an external diameter of 4.8mm and a height of 3.8mm, as those are suitable and i have them on hand
 - started working on the base of the JST Version enclosure
   - the board is not that big, so the battery that i was planning on using is too big to fit underneath it, and the JST version is supposed to be the small one, so i am going to switch to [this one](https://thepihut.com/products/500mah-3-7v-lipo-battery)
+  - since i have changed the battery, i can make the standoffs on for the board shorter, from 8mm to 5mm
+  - 
