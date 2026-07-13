@@ -136,7 +136,13 @@ today i am going to:
 - found the size of heat-set insert and machine screws i want to use, i am using M3x8 machine screws ([these](https://uk.store.bambulab.com/products/m3-socket-head-cap-machine-screws-shcs-1?id=41622217621564) ones from Bambu lab) and M3 heat-set inserts with an external diameter of 4.8mm and a height of 3.8mm, as those are suitable and i have them on hand
 - finishing up the enclosure for the 18650 version
   - added a hole in the side of the base so that i can have an m3 machine screw go into the side of one of the support pillars on the top of the enclosure, to attach the top to the bottom of the enclosure
-  - sketch 5 is fucked up idk, i cant select any of the profiles to extrude them, im just going to fully remake the sketch at this point
+  - sketch 5 is fucked, i cant select any of the profiles to extrude them, im just going to fully remake the sketch at this point
+  - fixed sketch 5
+  - printing out both of the parts of the enclosure to check the fit
+    - i think that the top of the enclosure can be made a bit thinner overall, as it is very bulky
+    - the holes for the threaded inserts are a bit small so i am going to make them bigger
+    - the hole for the screw that holds in the top of the enclosure is a bit too shallow, so i will make it deeper
+  - 
 - started working on the base of the JST Version enclosure
   - the board is not that big, so the battery that i was planning on using is too big to fit underneath it, and the JST version is supposed to be the small one, so i am going to switch to [this one](https://thepihut.com/products/500mah-3-7v-lipo-battery)
   - since i have changed the battery, i can make the standoffs on for the board shorter, from 8mm to 5mm
