@@ -172,9 +172,20 @@ today i am going to:
   - the pass-through pin is too tight in its tracks
 - Moved the reset button because the place that i had it is too inaccessible
   - i moved it on the PCB
-    - re-uploaded all the files to GitHub
+    - re-uploaded all the files to GitHub#
+    - changed the model in fusion
+  - re-modeling the button because the way i had it doesnt really work
+    - added a flexible interface into the top of the enclosure, to stop the pin from being able to fall out of the top of the enclosure
+    - printed out the top of the case and the new button
+      - the pin for the button was too short, made it a bit longer
+    - printed it again
+      - made the pin a bit longer, and the flexible cover for the pin needs to be thicker, it seems that even from this basic amount of use it was already getting weak
 
 - moved the screw terminals on the JST version closer to the edge as the through-hole pins were interfering with the space for the battery
   - re upload all of the files for the JST version on GitHub
   - changed the model in Fusion
-- 
+- added tabs to hold the battery in place in the JST version
+- moved the reset button because, in the place that i had it is too inaccessible
+  - moved it on the pcb
+  - re-uploaded all of the files to GitHub
+  - 
