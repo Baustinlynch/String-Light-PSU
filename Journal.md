@@ -188,4 +188,6 @@ today i am going to:
 - moved the reset button because, in the place that i had it is too inaccessible
   - moved it on the pcb
   - re-uploaded all of the files to GitHub
-  - 
+  - changed the model in fusion
+- put the hole in for the top of the enclosure for the screw terminals
+- put a hole in the side of the enclosure for the screw terminals
