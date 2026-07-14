@@ -168,6 +168,13 @@ today i am going to:
   - cut the hole into the top of the enclosure and added the container/rails for the button to go along
   - modeled the stick thing so that the button can be pushed from outside the enclosure and constrained it into the assembly
 - printing out the 18650 version so that i can see how it all fits together
+  - the hole for the button is way to small
+  - the pass-through pin is too tight in its tracks
+- Moved the reset button because the place that i had it is too inaccessible
+  - i moved it on the PCB
+    - re-uploaded all the files to GitHub
 
 - moved the screw terminals on the JST version closer to the edge as the through-hole pins were interfering with the space for the battery
   - re upload all of the files for the JST version on GitHub
+  - changed the model in Fusion
+- 
