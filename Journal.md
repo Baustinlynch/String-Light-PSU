@@ -157,8 +157,15 @@ today i am going to:
   
 ## 14/07/26
 
-- [] move the rib on the underside of the top of the enclosure away from the hole
-- [] remove the chamfer on the pin with the screw, as it interferes with it being able to fit properly
-- [] add more ribs to the underside of the top of the enclosure as it is still a bit too flexible
-- [] make the pin with the screw in it shorter, as it is too long
-- [] add a fillet to the top of the enclosure
+- [X] move the rib on the underside of the top of the enclosure away from the hole
+- [X] remove the chamfer on the pin with the screw, as it interferes with it being able to fit properly
+- [X] add more ribs to the underside of the top of the enclosure as it is still a bit too flexible
+- [X] make the pin with the screw in it shorter, as it is too long
+- [X] add a fillet to the top of the enclosure
+
+- i reshaped the hole for the screw on the top of the enclosure, as it is kinda deformed when it was printed so i am going to flatten the top a bit so that it prints better. I also made the hole smaller so that i has more grip
+- added the passthrough for the reset button on the 18650 version of the board
+  - cut the hole into the top of the enclosure and added the container/rails for the button to go along
+  - modeled the stick thing so that the button can be pushed from outside the enclosure and constrained it into the assembly
+- printing out the 18650 version so that i can see how it all fits together
+- 
