@@ -155,4 +155,10 @@ today i am going to:
   - the walls need to be reasonably thick because of the space necessary for the screws to fit in, so i am minimizing the wall thickness by not having the wall thickness be even everywhere
   - i am carving a kind of alcove into the side of the base of the enclosure, as the battery is in the way of the pins of the screw terminal
   
-- 
+## 14/07/26
+
+- [] move the rib on the underside of the top of the enclosure away from the hole
+- [] remove the chamfer on the pin with the screw, as it interferes with it being able to fit properly
+- [] add more ribs to the underside of the top of the enclosure as it is still a bit too flexible
+- [] make the pin with the screw in it shorter, as it is too long
+- [] add a fillet to the top of the enclosure
