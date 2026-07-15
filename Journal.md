@@ -187,7 +187,6 @@ today i am going to:
       - the pin for the button was too short, made it a bit longer
     - printed it again
       - made the pin a bit longer, and the flexible cover for the pin needs to be thicker, it seems that even from this basic amount of use it was already getting weak
-    - printed it again to see if the the thicker flexible cover is still working
 
 ### JST version
 
@@ -204,10 +203,17 @@ today i am going to:
 
 ## 15/07/26
 
+### JST version
+
 - added the standoffs for the threaded inserts, i still need to make some spaces in the edge of the base of the enclosure for them as they dont have the clearance to fit in properly
 - made room in the sides of the base of the enclosure for the standoffs to fit
 - added the flexible cover for the button to the JST version
 - modeled the button extender pin for the JST version
 - assembled the top of the JST enclosure
-- printed out all the parts to test the fitment
-  - 
+- printed out all the parts to test the fit
+
+### 18650 version 
+
+- printed it again to see if the the thicker flexible cover is still working
+  - it still works great, feels more suitably sturdy now though
+- Uploaded all the CAD files to GitHub
