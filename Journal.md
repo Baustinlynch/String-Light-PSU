@@ -211,6 +211,13 @@ today i am going to:
 - modeled the button extender pin for the JST version
 - assembled the top of the JST enclosure
 - printed out all the parts to test the fit
+  - the wall where i made the cutout for the battery is too thin
+  - the button pin is too tight in its tracks
+- made the wall 0.5mm thicker
+- changed the size of the top of the enclosure to make sure its the same as the base
+- made the button pin smaller
+- printed out all the changed parts to check the fit
+  - 
 
 ### 18650 version 
 
