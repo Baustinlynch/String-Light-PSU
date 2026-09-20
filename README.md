@@ -44,3 +44,5 @@ I **DO NOT** take responsibility for my battery charging or management circuitry
 I trust my circuitry enough to use it in my own home, but you should always look over someone else's circuitry yourself and do your due diligence!
 **Use at your own risk!!**
 
+## AI Declaration
+Coding and research agents were used in this project, for things like the preparation of the spreadsheets, and for finding blatant errors in my schematics that I may have missed.
